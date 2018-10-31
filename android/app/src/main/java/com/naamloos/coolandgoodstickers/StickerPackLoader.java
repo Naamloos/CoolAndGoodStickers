@@ -22,18 +22,18 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-import static com.example.samplestickerapp.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
-import static com.example.samplestickerapp.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
-import static com.example.samplestickerapp.StickerContentProvider.PUBLISHER_EMAIL;
-import static com.example.samplestickerapp.StickerContentProvider.PUBLISHER_WEBSITE;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.PUBLISHER_EMAIL;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.PUBLISHER_WEBSITE;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
+import static com.naamloos.coolandgoodstickers.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
 
 public class StickerPackLoader {
 
