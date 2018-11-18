@@ -133,6 +133,134 @@
           "emojis": []
         }
       ]
+    },
+    {
+      "identifier": "2",
+      "name": "Kat Kot",
+      "publisher": "Naamloos",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "https://github.com/NaamloosDT/CoolAndGoodStickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6-pete.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "hitormiss.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "gib.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "analysis.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "coolpikachu.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "overusedpikachu.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "brain1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "brain2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "brain3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "brain4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "sans.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "eternal.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "help.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ecksdee.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "hard.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "lancer.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "peepeelone.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "anime.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "maybeillbetracer.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "imalreadytracer.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "sakuraidont.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "dont.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "toem.webp",
+          "emojis": []
+        }
+      ]
     }
   ]
 }
